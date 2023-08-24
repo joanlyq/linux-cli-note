@@ -39,3 +39,6 @@
   `sudo swapon /path/to/swapfile`
 
   > Replace /path/to/swapfile with the actual path of the swap file.
+
+
+Reference: <https://www.scaler.com/topics/how-to-increase-swap-space-in-linux/>
